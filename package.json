@@ -267,7 +267,10 @@
     "validate-npm-package-name",
     "which",
     "worker-farm",
-    "write-file-atomic"
+    "write-file-atomic",
+    "ink",
+    "libpickupdates",
+    "react"
   ],
   "devDependencies": {
     "deep-equal": "^1.0.1",
